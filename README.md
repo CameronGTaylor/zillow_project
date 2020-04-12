@@ -6,3 +6,4 @@ In order to run this project, you must have a env.py file containing three varia
 
 We will be using 3 features: bedrooms, bathrooms, and square footage to predict house value. We also use propertylandusetypeid to only select single unit properties, and transactiondate to make sure the sale is in May or June.
 
+zillow_main contains all the modeling and feature engineering for the 3 data points we were given, zillow_extended contains my attempt to find better features to use and the results of those features in their own model.
